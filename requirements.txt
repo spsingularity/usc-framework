@@ -1,0 +1,3 @@
+# Paper build (paper/build.sh) needs pandoc + xelatex, not Python packages.
+# The figure script (figures/make_figures.py) needs:
+matplotlib
