@@ -1,0 +1,24 @@
+{
+  "title": "Unified Structural-Entropy Cosmogenesis: A Falsifiable Framework Linking Dark Energy, Matter Genesis, and Galactic Dynamics",
+  "description": "Code, data, and the pre-registered falsifier matrix for Unified Structural-Entropy Cosmogenesis, a falsifiable framework linking dark energy, matter genesis, and galactic dynamics through one entropy clock.",
+  "creators": [
+    {
+      "name": "Pandev, Stilian",
+      "orcid": "0009-0005-8153-071X",
+      "affiliation": "Independent researcher"
+    }
+  ],
+  "upload_type": "software",
+  "license": "mit",
+  "access_right": "open",
+  "keywords": [
+    "dark energy",
+    "horizon thermodynamics",
+    "baryogenesis",
+    "asymmetric dark matter",
+    "modified inertia",
+    "MOND phenomenology",
+    "non-equilibrium effective field theory",
+    "pre-registration"
+  ]
+}
